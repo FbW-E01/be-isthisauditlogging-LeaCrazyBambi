@@ -1,0 +1,13 @@
+GET http://localhost:3001/foo
+
+###
+
+GET http://localhost:3001/something
+
+###
+
+POST http://localhost:3001/post
+
+###
+
+GET http://localhost:3001/login
